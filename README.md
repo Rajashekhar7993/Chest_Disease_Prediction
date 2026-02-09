@@ -1,9 +1,3 @@
-# Chest Disease Prediction
+This project focuses on predicting chest-related diseases using machine learning techniques. The system analyzes medical data (such as chest X-ray images or clinical features) to automatically identify the presence of chest diseases. The goal is to assist in early detection and diagnosis, helping healthcare professionals make faster and more accurate decisions.
 
-Chest Disease Prediction is a machine learning-based project that helps in identifying potential chest-related diseases by analyzing patient symptoms and health data. It is built to support early diagnosis and assist healthcare professionals in making faster, data-driven decisions.
-
-## 🔍 Key Features
-
-- **Accurate Predictions:** Uses trained ML models to predict diseases like pneumonia, bronchitis, asthma, and more.
-- **Symptom-Based Analysis:** Takes common symptoms such as cough, chest pain, and shortness of breath as input.
-- **Clinical Decision Support:** Aims to improve diagnostic speed and accuracy, especially in resource-limited settings.
+The project involves data preprocessing, model training, evaluation, and prediction using Python. It demonstrates the practical application of machine learning in the healthcare domain.
